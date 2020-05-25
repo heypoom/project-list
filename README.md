@@ -17,12 +17,10 @@ This is a non-comprehensive list for some of my side projects.
 - grading.jwc.in.th (React) - https://grading.jwc.in.th or https://jwcxi-grading.netlify.app
 - Muay Lumken (React) - https://muay.netlify.app
 - little-planet (React) - https://littleplanet.netlify.app
-- omnilytics (React) - https://omnilytics.netlify.app
 - Axi Platform/PrintAt (React) - [https://github.com/axi-platform] - https://axiplatform.netlify.app
 - Axi Companion (React) - https://github.com/axi-platform/axi-companion
 - FlipED (React) - (https://github.com/phoomparin/fliped)
 - Passion Nest (React) - https://passion-nest.netlify.app
-- First Prototype for OmniVirt 3D Photo (React) - https://omnivirt-3d-photo.netlify.app
 - phoom.in.th (React)
 - FastPass (React) - https://fastpass.netlify.app
 
